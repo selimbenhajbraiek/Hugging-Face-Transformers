@@ -9,4 +9,3 @@ This project demonstrates the power of Hugging Face's `transformers` library thr
 - Zero-shot Classification
 - Translation
 - Image Classification
-- Speech Recognition
